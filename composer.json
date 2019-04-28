@@ -1,5 +1,5 @@
 {
-  "name": "crevillo/ezsocialloginbundle",
+  "name": "aksoftware/ezsocialloginbundle",
   "description": "Social login for eZ Platform",
   "license": "GPL-2.0",
   "type": "ezplatform-bundle",
@@ -11,7 +11,7 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    "ezsystems/ezpublish-kernel": "~5.4|~6.0@dev",
+    "ezsystems/ezpublish-kernel": "~5.4|~8.0@dev",
     "hwi/oauth-bundle": "0.5.*"
   },
   "require-dev": {
