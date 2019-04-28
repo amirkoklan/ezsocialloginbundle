@@ -1,5 +1,5 @@
 {
-  "name": "aksoftware/ezsocialloginbundle",
+  "name": "crevillo/ezsocialloginbundle",
   "description": "Social login for eZ Platform",
   "license": "GPL-2.0",
   "type": "ezplatform-bundle",
